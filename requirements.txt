@@ -18,7 +18,7 @@ scipy==1.11.4
 smart-open==6.4.0
 sympy==1.12
 threadpoolctl==3.2.0
-torch==2.1.2+cu121
+torch==2.2.0
 torchaudio==2.1.2+cu121
 torchvision==0.16.2+cu121
 tqdm==4.66.1
